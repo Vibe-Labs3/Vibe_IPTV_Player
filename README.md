@@ -106,7 +106,7 @@ No account, sign‑up, ads, or trackers.
 - Vibe includes **no channels or media** and is not affiliated with any content provider. You are responsible for the legality of the playlists you add.
 
 <!-- If you host your legal docs in this repo or on GitHub Pages, update these links. -->
-See the **[Privacy Policy](PRIVACY.md)** and **[Terms of Use](TERMS.md)**.
+See the **[Privacy Policy](privacy-policy.md)** and **[Terms of Use](terms-of-use.md)**.
 
 ---
 
