@@ -1,0 +1,33 @@
+Copyright © 2026 Vibe Labs. All rights reserved.
+
+Vibe IPTV Player ("the App")
+
+This repository distributes the App in compiled, binary form (an Android .apk)
+only. The source code of the App is NOT published, and no license or right to the
+source code is granted.
+
+You are permitted to:
+  - Download the provided .apk and install and use the App on devices you own or
+    control, for personal, non-commercial use, subject to the Terms of Use
+    (terms-of-use.md).
+
+You may NOT, without the prior written permission of Vibe Labs:
+  - redistribute, resell, sublicense, or otherwise make the App available to
+    others;
+  - modify, adapt, translate, or create derivative works of the App;
+  - reverse engineer, decompile, or disassemble the App, except to the extent
+    this restriction is prohibited by applicable law;
+  - remove or alter any copyright, trademark, or other proprietary notices.
+
+All rights not expressly granted above are reserved by Vibe Labs. "Vibe",
+"Vibe IPTV Player", and associated logos are trademarks of Vibe Labs and are not
+licensed to you.
+
+Third-party components: The App incorporates open-source libraries that remain
+governed by their own respective licenses (predominantly Apache License 2.0 and
+BSD). Those licenses apply only to those components, not to the App as a whole.
+
+THE APP IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. USE IS GOVERNED BY THE
+TERMS OF USE (terms-of-use.md) AND PRIVACY POLICY (privacy-policy.md).
+
+Contact: vibelabs3@gmail.com
