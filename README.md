@@ -40,10 +40,10 @@ Each release lists a SHA‑256 checksum. To confirm the file wasn't corrupted or
 
 ```bash
 # Windows (PowerShell)
-Get-FileHash .\VibeIPTV.apk -Algorithm SHA256
+Get-FileHash .\Vibe IPTV Player v1.4.3.apk -Algorithm SHA256
 
 # macOS / Linux
-shasum -a 256 VibeIPTV.apk
+shasum -a 256 Vibe IPTV Player v1.4.3.apk
 ```
 
 The value should match the checksum in the release notes.
